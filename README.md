@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdelhalim Aljaml
-- 👀 I’m interested in Front End Web Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML5, CSS3 and JS
 - 💞️ I’m looking to collaborate on Front End Projects
 - 📫 How to reach me: Abdelhalim.aljaml@gmail.com
